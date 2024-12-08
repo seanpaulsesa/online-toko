@@ -47,7 +47,7 @@ $('#example').czmChatSupport({
                     offline: "Nanti sa kembali lagi" /* To remove, (offline:false) */
                 },
                 link: {
-                    desktop: "https://web.whatsapp.com/send?phone=+62823997029796&text=Hi, Pace Koding!", /* Writing is required */
+                    desktop: "https://web.whatsapp.com/send?phone=+6282397029796&text=Hi, Pace Koding!", /* Writing is required */
                     mobile: "https://wa.me/+62823-9702-9796/?text=Hi, Pace Koding!" /* If it is hidden desktop link will be valid. To remove, (mobile:false) */
                 },
                 onlineDay: {
